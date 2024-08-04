@@ -19,7 +19,7 @@ Soy desarrollador y estudiante de ingenieria civil en automatizacion. Me encanta
 1. **[Fractal de sierpinski]**
    - pequeño codigo de escrito en C usando la libreria SDL. El proyecto se trata en si de preguntar por consola un numero n de vertices de un poligono, y el algoritmo se encargara de crear un fractal con n lados. 
    - [Repositorio del Proyecto](https://github.com/usery2k/fractal-sierpinski.git)
-   - ![Imagen del Proyecto]()
+   - ![Imagen del Proyecto](https://raw.githubusercontent.com/usery2k/fractal-sierpinski/main/images/Screenshot%20from%202024-08-01%2021-42-36.png)
 
 ### 📫 Contacto
 
