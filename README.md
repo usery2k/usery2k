@@ -1,9 +1,8 @@
 ## hi im user2k 🗿🚬
 
-<!-- ![Header](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80) -->
+<!-- ![Header](https://proximamente) -->
 
-Soy desarrollador y estudiante de ingenieria civil en automatizacion. Me encanta trabajar en proyectos innovadores y contribuir a la comunidad open source.
-
+Soy desarrollador y estudiante de ingenieria civil en automatizacion.
 ### 🎓 Educación
 
 - ** Universidad del BIO-BIO ** - _Ingenienieria Civil en Automatizacion_
