@@ -11,7 +11,6 @@ Soy desarrollador y estudiante de ingenieria civil en automatizacion.
 
 - **Lenguajes de Programación:** Python, C
 - **Tecnologías y Herramientas:** Git
-- **Otros:** Desarrollo ágil, CI/CD, Pruebas automatizadas
 
 ### 🚀 Proyectos Destacados
 
