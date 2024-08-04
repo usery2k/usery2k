@@ -1,41 +1,27 @@
-## hi im [user2k] 👋
+## hi im user2k 🗿🚬
 
-![Header](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
+<!-- ![Header](https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80) -->
 
-Soy desarrollador(a) de software con pasión por la tecnología y el aprendizaje continuo. Me encanta trabajar en proyectos innovadores y contribuir a la comunidad open source.
-
-### 💼 Experiencia
-
-- **[Nombre de la Empresa]** - _Desarrollador(a) de Software_
-  - Descripción breve de tu rol y logros.
-- **[Nombre de la Empresa]** - _Interno(a)_
-  - Descripción breve de tu rol y logros.
+Soy desarrollador estudiante de ingenieria civil en automatizacion. Me encanta trabajar en proyectos innovadores y contribuir a la comunidad open source.
 
 ### 🎓 Educación
 
-- **[Nombre de la Universidad]** - _Ingeniería en Computación_
-  - Descripción breve de tus estudios y logros.
+- ** Universidad del BIO-BIO ** - _Ingenienieria Civil en Automatizacion_
 
 ### 🛠️ Habilidades
 
-- **Lenguajes de Programación:** Python, JavaScript, Java
-- **Tecnologías y Herramientas:** React, Node.js, Docker, Git
+- **Lenguajes de Programación:** Python, C
+- **Tecnologías y Herramientas:** Git
 - **Otros:** Desarrollo ágil, CI/CD, Pruebas automatizadas
 
 ### 🚀 Proyectos Destacados
 
-1. **[Nombre del Proyecto 1]**
-   - Descripción breve del proyecto.
-   - [Repositorio del Proyecto](https://github.com/usuario/proyecto1)
-   - ![Imagen del Proyecto 1](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
-
-2. **[Nombre del Proyecto 2]**
-   - Descripción breve del proyecto.
-   - [Repositorio del Proyecto](https://github.com/usuario/proyecto2)
-   - ![Imagen del Proyecto 2](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
+1. **[Fractal de sierpinski]**
+   - pequeño codigo de escrito en C usando la libreria SDL. El proyecto se trata en si de preguntar por consola un numero n de vertices de un poligono, y el algoritmo se encargara de crear un fractal con n lados. 
+   - [Repositorio del Proyecto](https://github.com/usery2k/fractal-sierpinski.git)
+   - ![Imagen del Proyecto]()
 
 ### 📫 Contacto
 
-- **Correo:** [tuemail@example.com](mailto:tuemail@example.com)
-- **LinkedIn:** [tuLinkedIn](https://www.linkedin.com/in/tuusuario)
-- **Twitter:** [@tuusuario](https://twitter.com/tuusuario)
+- **Correo:** [matzzz423@gmail.com](mailto:matzzz423@gmail.com)
+- **Instagram:** [@kadaverdekadente](https://www.instagram.com/kadaverdekadente/)
