@@ -9,8 +9,7 @@ Programador y estudiante de ingenieria civil en automatizacion.
 
 ### 🛠️ Habilidades
 
-- **Lenguajes de Programación:** Python, C, Wolfram Mathematica, HTML, CSS, JavaScript, SQL, Microsoft Exel,
-Git, MATLAB (basico).
+- **Lenguajes de Programación:** Python, C, Wolfram Mathematica, HTML, CSS, JavaScript, SQL, Microsoft Exel, MATLAB (basico).
 - **Tecnologías y Herramientas:** Git
 
 ### 🚀 Proyectos Destacados
