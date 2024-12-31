@@ -22,4 +22,4 @@ Programador y estudiante de ingenieria civil en automatizacion.
 ### 📫 Contacto
 
 - **Correo:** [matzzz423@gmail.com](mailto:matzzz423@gmail.com)
-- **Telefono:** (+56 9) 2897 652
+- **Telefono:** (+56) 9 2897 652
