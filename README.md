@@ -1,4 +1,4 @@
-## hi im user2k 🗿🚬
+## Hi im user2k 🚬🗿
 
 <!-- ![Header](https://proximamente) -->
 
