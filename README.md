@@ -22,4 +22,4 @@ Programador y estudiante de ingenieria civil en automatizacion.
 ### 📫 Contacto
 
 - **Correo:** [matzzz423@gmail.com](mailto:matzzz423@gmail.com)
-- **Instagram:** [@kadaverdekadente](https://www.instagram.com/kadaverdekadente/)
+- **Telefono:** (+56 9) 2897 652
