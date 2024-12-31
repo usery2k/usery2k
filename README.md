@@ -2,7 +2,7 @@
 
 <!-- ![Header](https://proximamente) -->
 
-Soy desarrollador y estudiante de ingenieria civil en automatizacion.
+Programador y estudiante de ingenieria civil en automatizacion.
 ### 🎓 Educación
 
 - ** Universidad del BIO-BIO ** - _Ingenienieria Civil en Automatizacion_
